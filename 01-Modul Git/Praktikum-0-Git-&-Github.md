@@ -145,6 +145,22 @@ Sebelum mulai menggunakan `Git`, ada beberapa perintah dasar yang harus diketahu
 
 ![#1](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;7.51.09&#32;PM.png)
 
+### NOTE
+
+Karena panduan ini saya buat -+ 3 tahun yang lalu. 
+
+Jadi ada sedikit update: 
+
+_MOHON DIPERHATIKAN DI BAWAH INI_
+
+UPDATE : Pada prosesnya di github branch default `*master` tersebut sudah digantikan dengan branch `*main`. Pergantian ini terkait dengan sensitifitas istilah. Seperti gambar berikut:
+
+![*main](Snapshoot/main.png)
+
+Pada dasarnya keduanya punya peran yang sama hanya nama yang berbeda.
+
+//////////////
+
 ###### *memilih folder project*
 
 Kemudian drag folder tersebut ke `Terminal/command Prompt` atau open with git bash
