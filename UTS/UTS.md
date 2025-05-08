@@ -44,7 +44,7 @@ Desain kembali website portfolio profesional anda dengan persyaratan berikut:
 - Waktu: 1 Minggu
 - Boleh menggunakan framework CSS (Bootstrap, Tailwind, etc.)
 - Dilarang menggunakan template jadi
-- Kode harus original dan terdokentasi dengan baik
+- Kode harus original dan terdokumentasi dengan baik
 - Website harus responsive pada semua ukuran device
 
 ### Kriteria Penilaian:
