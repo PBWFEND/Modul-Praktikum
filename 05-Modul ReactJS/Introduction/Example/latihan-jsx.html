@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh JSX di React</title>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body>
+    <div id="app"></div>
+
+    <script type="text/babel">
+        
+        // --- CONTOH 1: Membuat komponen TANPA JSX ---
+        // Cara ini lebih panjang dan jarang digunakan.
+        class Btn extends React.Component {
+            render() {
+                // Menggunakan React.createElement('tag', {props}, 'isi')
+                let element = React.createElement('h2', {}, 'Ini dibuat tanpa JSX');
+                return element;
+            }
+        }
+
+        // --- CONTOH 2: Membuat komponen DENGAN JSX ---
+        // Cara ini lebih singkat, mudah dibaca, dan direkomendasikan.
+        class Btn2 extends React.Component {
+            render() {
+                // Terlihat seperti HTML biasa di dalam JavaScript
+                let element = <h2>Saya dibuat dengan JSX! ❤️</h2>;
+                return element;
+            }
+        }
+
+        // --- Komponen Utama untuk menggabungkan semuanya ---
+        // Kita buat satu komponen utama untuk menampilkan kedua contoh di atas.
+        function App() {
+            return (
+                <div>
+                    <h1>Perbandingan JSX dan Tanpa JSX</h1>
+                    <hr />
+                    <Btn /> 
+                    <Btn2 />
+                </div>
+            );
+        }
+
+        // 5. Render komponen utama ke dalam div#app menggunakan API React 18
+        const container = document.getElementById('app');
+        const root = ReactDOM.createRoot(container);
+        root.render(<App />);
+
+    </script>
+</body>
+</html>
