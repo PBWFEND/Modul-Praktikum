@@ -96,12 +96,7 @@ Topik untuk memperdalam keahlian, optimasi, dan penggunaan library populer di ek
 
 15. **Studi Kasus: Membangun & Deploy Aplikasi Fungsional** 🏆
     * *Menerapkan semua konsep yang telah dipelajari untuk membangun sebuah proyek nyata dari awal hingga akhir dan melakukan deployment ke platform seperti Vercel atau Netlify.*
-  
-Tentu. Menambahkan daftar referensi yang relevan adalah langkah yang sangat baik. Ini akan membantu peserta praktikum untuk mendalami setiap topik lebih lanjut dari sumber-sumber terpercaya.
 
-Berikut adalah daftar referensi yang relevan dengan materi React 18 modern, ditambahkan ke bagian akhir dari `README.md` yang sudah kita susun.
-
----
 
 ## **Referensi dan Sumber Belajar Tambahan**
 
