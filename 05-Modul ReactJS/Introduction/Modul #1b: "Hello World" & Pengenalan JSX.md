@@ -296,17 +296,17 @@ Cukup salin kode di bawah ini, simpan sebagai file `.html` (misalnya, `latihan-J
 </html>
 ```
 
-![Perbandingan JSX dan Tanpa JSX](https://awesomescreenshot.s3.amazonaws.com/image/4565304/54930817-3eadb47eb0829ed5bd625e7b216c787a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20250611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250611T171558Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=089ffdebfc580783fd6ed36c145d49176b429dfa06dd32d205d779f711ea9142)
+![Perbandingan JSX dan Tanpa JSX](https://awesomescreenshot.s3.amazonaws.com/image/4565304/54930817-3eadb47eb0829ed5bd625e7b216c787a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20250612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250612T015317Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=894e262680830709feb5cd141c1f7821329fbcafbff864ba39d1adaaf3833edc)
 
 **Penjelasan**
 
 1. **Struktur HTML Lengkap**: Kode ini sekarang berada dalam file HTML yang utuh dan siap pakai, lengkap dengan pemuatan library React, ReactDOM, dan Babel.
-   1. **Menggabungkan Komponen**: Kita membuat komponen utama bernama `App` yang berfungsi untuk menampung dan menampilkan kedua komponen sebelumnya (`Btn` dan `Btn2`) agar mudah dibandingkan.
+   1. **Menggabungkan Komponen**: Kita membuat komponen utama bernama `App` yang berfungsi untuk menampung dan menampilkan kedua komponen sebelumnya (`TombolTanpaJSX` dan `TombolDenganJSX`).
 2. **Render ke Wadah**: Menggunakan metode `ReactDOM.createRoot()` yang merupakan standar di React 18, kita merender komponen App ke dalam elemen HTML dengan `id="app"`.
 
 Berikut adalah ilustrasi visual untuk membantu Anda memahami perbedaan antara menggunakan JSX dan tidak, berdasarkan contoh kode di atas:
 
-![ilustrasi](https://awesomescreenshot.s3.amazonaws.com/image/4565304/54930818-c2cf33fc41bd3b372e835cb588ee2ee5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20250611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250611T172522Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=5ab37a7c162803219397d03b501cb81bb0682846672148c630097742f78dc917)
+![ilustrasi](https://awesomescreenshot.s3.amazonaws.com/image/4565304/54930818-c2cf33fc41bd3b372e835cb588ee2ee5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20250612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250612T015207Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea52e93ac366c1227a59a6d9222b2063aa1ab31d8172424bfb2b3365e8d08367)
 
 **Penjelasan Ilustrasi:**
 
@@ -401,7 +401,7 @@ Berikut adalah contoh kode yang bisa langsung Anda jalankan. dan simpan sebagai 
 
 **Hasilnya:**
 
-![output](https://awesomescreenshot.s3.amazonaws.com/image/4565304/54931213-8b001c99195d8d203cb2e4865b371cb6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20250611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250611T174401Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=77ee9edb13481d73a10d5743af673d153b7ce43208803991632eb0dca19fd75d)
+![output](https://awesomescreenshot.s3.amazonaws.com/image/4565304/54931213-8b001c99195d8d203cb2e4865b371cb6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20250612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250612T015653Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=6cfff9158a2b6a62835e5608a22bd756ffc79c6829beb37240d18795ef5afc31)
 
 **Penjelasan Kode**
 
