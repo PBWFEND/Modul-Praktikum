@@ -73,7 +73,7 @@ Facebook mengembangkan ReactJS dengan konsep `Virtual DOM. `
 
 ![Virtual Dom Illustration](https://awesomescreenshot.s3.amazonaws.com/image/4565304/54920554-b6acd419de9760e84e227af69050c978.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20250612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250612T012507Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=e389e39fd659640574946d99b1bc94428342e5ca26200ab0b71e4606ab7e2e50)
 
-![Virtual Dom Ilustration](https://awesomescreenshot.s3.amazonaws.com/image/4565304/54920554-b6acd419de9760e84e227af69050c978.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20250612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250612T012541Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=b02b4f4abc50a3d89fef21e594885b61ac28fdcca4802cece344f7319f130d1e)
+![Virtual Dom Ilustration](https://awesomescreenshot.s3.amazonaws.com/image/4565304/54920580-b88d6e360cf9bd358148783bc6092efc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20250612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250612T014302Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e93ea2e81bb621e0a40f8a2b4d2884fba01bad5e7050757e71218f8dbeee6a3)
 
 Gimana udah paham belum ?
 
