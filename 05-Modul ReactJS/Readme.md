@@ -28,7 +28,7 @@ Setiap direktori modul akan berisi:
 
 ---
 
-## **Panduan Praktikum React 18 Modern**
+## **Panduan Praktikum React 19 Modern**
 
 Struktur ini dirancang agar alur belajar menjadi lebih intuitif, dimulai dari fondasi paling dasar hingga konsep lanjutan, sesuai dengan dokumentasi resmi dan kebutuhan industri saat ini.
 
@@ -40,7 +40,7 @@ Bagian ini fokus pada konsep inti yang wajib dikuasai setiap developer React.
     * *Memahami apa itu React, filosofi di baliknya, dan cara memecah desain UI menjadi komponen-komponen kecil.*
 
 2.  **ReactJS #02: Setup Project & Struktur Direktori** 🚀
-    * *Menggunakan tool modern seperti Vite untuk membuat proyek React 18 baru dengan cepat.*
+    * *Menggunakan tool modern seperti Vite untuk membuat proyek React 19 baru dengan cepat.*
 
 3.  **ReactJS #03: Komponen, JSX, dan Props** 📦
     * *Membuat komponen fungsional pertama, memahami JSX, dan cara komponen berkomunikasi dari induk ke anak (parent-to-child) lewat props.*
