@@ -275,10 +275,10 @@ Membuat aplikasi React sederhana yang menampilkan kartu profil pengguna.
 
 Dalam praktikum ini, Anda telah:
 
-Membuat komponen fungsional yang modular.
-Menulis markup dengan JSX, lengkap dengan ekspresi JavaScript.
-Mengirimkan data ke komponen menggunakan props untuk menciptakan UI yang fleksibel dan dinamis.
-Membuat aplikasi sederhana menggunakan kombinasi komponen, JSX, dan props.
+- Membuat komponen fungsional yang modular.
+- Menulis markup dengan JSX, lengkap dengan ekspresi JavaScript.
+- Mengirimkan data ke komponen menggunakan props untuk menciptakan UI yang fleksibel dan dinamis.
+- Membuat aplikasi sederhana menggunakan kombinasi komponen, JSX, dan props.
 
 ### 🧠 Tugas
 
