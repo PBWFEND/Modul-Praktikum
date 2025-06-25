@@ -17,8 +17,11 @@
   - [💼 Latihan Praktikum: Membangun Komponen Profil](#-latihan-praktikum-membangun-komponen-profil)
     - [🎯 Tujuan:](#-tujuan)
     - [📌 Instruksi:](#-instruksi)
-  - [🧠 Kesimpulan](#-kesimpulan)
-  - [📚 Referensi](#-referensi)
+  - [🧠 Ringkasan](#-ringkasan)
+    - [🧠 Tugas](#-tugas)
+- [🚀 **Apa Selanjutnya?**](#-apa-selanjutnya)
+- [🚀 **Apa Materi Selanjutnya?**](#-apa-materi-selanjutnya)
+- [📚 Referensi](#-referensi)
 
 
 Setelah mempelajari teori dasar di modul sebelumnya, kini saatnya kita mendalami tiga fondasi utama dalam pengembangan aplikasi menggunakan [React](https://id.react.dev/learn/passing-props-to-a-component). Ketiganya menjadi elemen krusial yang membentuk struktur dan alur kerja React:
@@ -268,17 +271,32 @@ Membuat aplikasi React sederhana yang menampilkan kartu profil pengguna.
 </html>
 ```
 
-## 🧠 Kesimpulan
+## 🧠 Ringkasan
 
-Selamat atas pencapaian Anda! Dalam modul pembelajaran ini, Anda telah berhasil memahami dan menguasai konsep-konsep penting yang akan menjadi fondasi dalam perjalanan Anda mengembangkan aplikasi React. Mari kita rangkum pengetahuan yang telah Anda peroleh:
+Dalam praktikum ini, Anda telah:
 
-* Membuat **komponen fungsional** yang modular.
-* Menulis markup dengan **JSX**, lengkap dengan ekspresi JavaScript.
-* Mengirimkan **data** ke komponen menggunakan **props** untuk menciptakan UI yang fleksibel dan dinamis.
+Membuat komponen fungsional yang modular.
+Menulis markup dengan JSX, lengkap dengan ekspresi JavaScript.
+Mengirimkan data ke komponen menggunakan props untuk menciptakan UI yang fleksibel dan dinamis.
+Membuat aplikasi sederhana menggunakan kombinasi komponen, JSX, dan props.
+
+### 🧠 Tugas
+
+1. Buatlah tiga profil pengguna dengan gambar, nama, dan hobi masing-masing.
+2. Terapkan styling minimal untuk tampilan profil.
+3. Render komponen `ProfilPengguna` ke dalam elemen dengan `id="root"`.
+
+Dengan pemahaman ini, Anda telah memiliki fondasi yang kuat untuk mengembangkan aplikasi React yang lebih kompleks.
+
+# 🚀 **Apa Selanjutnya?**
+
+📍 Untuk memperdalam pemahaman Anda tentang `komponen`, `JSX`, dan `props`, silakan kerjakan latihan pada [Case Study](03-case-Study.md).
+
+# 🚀 **Apa Materi Selanjutnya?**
 
 📍 Di modul selanjutnya, kita akan melangkah ke konsep yang tak kalah penting—bagaimana membuat komponen mengingat sesuatu: yaitu dengan `state`.
 
-## 📚 Referensi
+# 📚 Referensi
 
 * [React Documentation – Passing Props](https://react.dev/learn/passing-props-to-a-component)
-
+* [React Documentation – JSX in Depth](https://react.dev/learn/javascript-in-jsx-with-curly-braces)
