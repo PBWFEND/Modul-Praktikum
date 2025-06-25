@@ -290,7 +290,7 @@ Dengan pemahaman ini, Anda telah memiliki fondasi yang kuat untuk mengembangkan 
 
 # 🚀 **Apa Selanjutnya?**
 
-📍 Untuk memperdalam pemahaman Anda tentang `komponen`, `JSX`, dan `props`, silakan kerjakan latihan pada [Case Study]([03-case-Study.md](https://github.com/PBWFEND/Modul-Praktikum/blob/main/05-Modul%20ReactJS/ReactJS-03/03-case-study.md)).
+📍 Untuk memperdalam pemahaman Anda tentang `komponen`, `JSX`, dan `props`, silakan kerjakan latihan pada [Case Study](https://github.com/PBWFEND/Modul-Praktikum/blob/main/05-Modul%20ReactJS/ReactJS-03/03-case-study.md).
 
 # 🚀 **Apa Materi Selanjutnya?**
 
