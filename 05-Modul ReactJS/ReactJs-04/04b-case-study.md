@@ -4,8 +4,7 @@
 
 1. Membuat komponen yang menampilkan tombol dan pesan yang berbeda berdasarkan status login, dan status tersebut tersimpan di localStorage.
 2. Memahami penggunaan localStorage untuk menyimpan data di browser.
-3. Mengimplementasikan konsep-konsep React seperti `state`, `props`, dan event `handling`.
-
+   
 ### Langkah 1: Setup Proyek dan Komponen
 
 Gunakan proyek `Vite` Anda dan buat komponen baru di `src/components/TombolAuth.jsx.`
